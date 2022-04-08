@@ -1,4 +1,5 @@
 #Importando API do Telegram
+#pip install pytelegrambotapi
 import telebot
 
 #Chave da API do bot
